@@ -12,16 +12,20 @@ dependencies:
     sdk: flutter
   crypto: ^3.0.3
   json_annotation: ^4.8.0
-  pinenacl: ^0.5.1
-  solana_borsh: ^0.0.1
+  pinenacl: 0.6.0
+  solana_borsh:
+    ^0.0.1
     # path: ../solana_borsh
-  solana_buffer: ^0.0.1
+  solana_buffer:
+    ^0.0.1
     # path: ../solana_buffer
-  solana_common: ^0.1.0
+  solana_common:
+    ^0.1.0
     # path: ../solana_common
-  solana_jsonrpc: ^0.0.1
+  solana_jsonrpc:
+    ^0.0.1
     # path: ../solana_jsonrpc
-    
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
